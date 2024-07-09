@@ -1,16 +1,6 @@
 Hola, soy Kiara Olmos :) disfruto programar y es una de mis más grandes pasiones, me gusta aprender y encontrarme con nuevos desafíos constantemente.
 
-Actualmente estoy recorriendo mi camino hacia ser una gran desarrolladora backend capaz de crear infraestructuras de alto rendimiento. 
+Actualmente estoy recorriendo mi camino hacia ser una gran desarrolladora fullstack capaz de crear programas y aplicaciones de alto rendimiento. 
 
-- 👋 Hi, I’m @kirii626
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kirii626/kirii626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Considero que el trabajo en equipo es una de las virtudes más grandes del mundo IT y que, además, es uno de los grandes medios para brindar soluciones a problemas de la vida.
+Me gusta hacer pesas 💪🏻 y ser positiva (estoy del lado de "el vaso medio lleno") :) 😁.
