@@ -8,7 +8,7 @@
 
 - **Desarrolladora Fullstack en Proceso**: 🚀 Actualmente estoy recorriendo mi camino hacia ser una gran desarrolladora fullstack, capaz de crear programas y aplicaciones de alto rendimiento.
 
-- **Trabajo en Equipo**: 🤝 Considero que el trabajo en equipo es una de las virtudes más grandes del mundo IT. Es uno de los medios más importantes para brindar soluciones a problemas reales.
+- **Trabajo en Equipo**: 🤝 Considero que el trabajo en equipo es una de las virtudes más grandes del mundo IT y que permite el desarrollo de grandes proyectos y soluciones a problematicas.
   
 - **Capacidad de  aprendizaje y de enseñar a otros**: A lo largo de mis estudios en la Técnica pude aprender de otros y además compartirle mis conocimientos a compañeros mediante clases particulares.
 
