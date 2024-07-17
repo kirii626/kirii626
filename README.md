@@ -13,7 +13,7 @@
 - **Capacidad de  aprendizaje y de enseñar a otros**: A lo largo de mis estudios en la Técnica pude aprender de otros y además compartirle mis conocimientos a compañeros mediante clases particulares.
 
 - **Hobbie y pasatiempo**: 💪🏻 Me gusta hacer pesas y superarme en ello.
-aa
+
 - **Actitud Positiva**: 🌈 Estoy del lado de "el vaso medio lleno" y me esfuerzo por mantener una actitud positiva en la vida.
 
 ---
@@ -21,6 +21,7 @@ aa
 ### 📚 Proyectos Principales 📚
 
 1. [**Brai.Net**](https://github.com/kirii626/brai.net): Página web orientada a satisfacer la falta de acceso a la información entre personas ciegas, logrando una mejor masificación para aquellos que quieran leer en formato físico. Tenemos como objetivos que en cada traducción genere un archivo de corte de forma automática y que también permita la subida y procesamiento de archivos. 🚀
+    
       _Stack Tecnológico:_
    
        A- HTML
@@ -31,6 +32,7 @@ aa
        F- JavaScript
    
 3. [**Smart-Fit**](https://github.com/kirii626/smart-fit):  Proyecto desarrollado en Java con el fin de que las personas que desean mejorar sus hábitos tengan un programa que les facilite recetas acorde a sus necesidades.🌟
+   
       _Stack Tecnológico:_
    
        A- Apache Netbeans 13
@@ -39,7 +41,8 @@ aa
        D- Xampp
        
 5. [**EstuRegistro**](https://github.com/kirii626/esturegistro-app): Proyecto desarrollado en Java con el fin de facilitar la manipulación de información de alumnos que pertenecen a un colegio. Está orientada a que lo maneje el personal académico de forma fácil e intuitiva.  🌐
-       _Stack Tecnológico:_
+   
+     _Stack Tecnológico:_
    
        A- Apache Netbeans 13
        B- JDK
