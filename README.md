@@ -2,7 +2,7 @@
 
 ### 🌟 Un poco sobre mí 🌟
 
-- **Presentación**: Soy Kiara Olmos y estoy en mi último año en la EET N°3139, tengo 18 años y soy programadora junior especializada en el desarrollo web. 🤓
+- **Presentación**: Soy Kiara Olmos y soy egresada de un colegio tecnico con titulo en Técnico en Informática Profesional y Personal, tengo 18 años y soy programadora junior especializada en el desarrollo web. 🤓
 
 - **Pasión por Programar**: 💻 Disfruto programar y es una de mis más grandes pasiones. Siempre estoy en busca de nuevos desafíos que me permitan aprender y crecer.
 
