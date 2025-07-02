@@ -22,14 +22,27 @@
 
 1. [**Challenge de microservicios**](https://github.com/kirii626/microservices-challenge-java): Este proyecto consiste en un ecosistema de microservicios dockerizados que reciben peticiones REST mediante un API Gateway con descubrimiento de servicios, siguiendo el patrón MVC en el desarrollo de cada uno de ellos. Es un repositorio padre donde tenemos el compose.yml para levantar todos los microservicios en una sola red y que puedan interactuar entre sí, los microservicios que posee actualmente son: user-microservice, sale-point-microservice, accreditation-microservice, notification-microservice, api-gateway y eureka-server. 🚀
     
-      _Stack Tecnológico:_
+      _Stack Tecnológico Y Dependencias:_
    
-       A- Java 21
-       B- Springboot 
-       C- Bootstrap
-       D- Python
-       E- Flask
-       F- JavaScript
+       - Java 21
+       - SpringBoot
+       - Spring Web
+       - Spring JPA
+       - Spring Security + JJWT
+       - Lombok
+       - Eureka Server
+       - Netflix Eureka Client 
+       - Redis
+       - H2 Database
+       - PostgreSQL
+       - RabbitMQ
+       - Open Feign
+       - Java Mail Sender
+       - IText
+       - SonarQube
+       - Jacoco
+       - Podman/Docker
+       
    
 3. [**Smart-Fit**](https://github.com/kirii626/smart-fit):  Proyecto desarrollado en Java con el fin de que las personas que desean mejorar sus hábitos tengan un programa que les facilite recetas acorde a sus necesidades.🌟
    
